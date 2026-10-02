@@ -1,0 +1,8 @@
+# CartSavvy - runtime dependencies (verified against releases available in Oct 2026)
+streamlit>=1.52,<2
+crewai[google-genai]>=1.15.23,<2
+pydantic>=2.8
+requests>=2.32
+beautifulsoup4>=4.12
+ddgs>=9.0
+pandas>=2.2
